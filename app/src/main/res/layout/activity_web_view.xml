@@ -40,7 +40,6 @@
 
     </RelativeLayout>
 
-
     <WebView
         android:id="@+id/web_view"
         android:layout_width="match_parent"
